@@ -61,7 +61,6 @@ namespace lab5_kr
                     presentation.PrintEmployees(choice);
                     break;
             }
-            Console.WriteLine("End");
         }
         public void PrintEmployees(int choice)
         {
